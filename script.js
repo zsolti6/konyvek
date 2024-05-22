@@ -3,7 +3,7 @@ window.addEventListener("load", () => {
 });
 
 function get(){
-        fetch("http://localhost:7017/Konyv") // ??
+        fetch("http://localhost:7017/Konyv") // ?? nem mukodik
         .then(function(datas) {
                 return datas.json();
         })
