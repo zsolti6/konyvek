@@ -1,3 +1,32 @@
 a{
         cursor: pointer;
 }
+
+body{
+        background-color: lightgray;
+}
+
+img{
+        height: 250px;
+        margin: auto;
+        margin-bottom: 10px;
+}
+
+#kartyak{
+        background-color: red;
+        width: 1920px;
+        height: 100%;
+        margin-left: 10px;
+}
+
+.card{
+        float: left;
+        text-align: center;
+        margin-left: 25px;
+        margin-top: 25px;
+}
+
+h5{
+        font-size: 90%;
+        font-weight: bold;
+}
