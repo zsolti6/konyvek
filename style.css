@@ -3,7 +3,7 @@ a{
 }
 
 body{
-        background-color: lightgray;
+        background-image: url("hatter.jpg");
 }
 
 img{
@@ -38,7 +38,19 @@ h5{
         height: 450px;
 }
 
-h1{
+#focim{
         text-align: center;
         margin-top: 50px;
+        color: white;
+}
+
+#adatok{
+        width: 400px;
+        margin: auto;
+        margin-top: 50px;
+}
+
+#ujGomb{
+        margin-left: 105px;
+        margin-top: 20px;
 }
